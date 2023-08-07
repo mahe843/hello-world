@@ -12,7 +12,7 @@ Registration Page
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
-<input type="text" name="middlename" size="15"/> <br> <br>  
+<input type="text" name="surname" size="15"/> <br> <br>  
 <label> Lastname: </label>         
 <input type="text" name="lastname" size="15"/> <br> <br>  
   
