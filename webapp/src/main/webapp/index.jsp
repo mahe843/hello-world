@@ -9,11 +9,11 @@ Registration Page
 <br>  
 <form>  
   
-<label> Firstname </label>         
+<label> mahesh </label>         
 <input type="text" name="mahesh" size="15"/> <br> <br>  
-<label> Middlename: </label>     
+<label> mahesh: </label>     
 <input type="text" name="mahesh" size="15"/> <br> <br>  
-<label> Lastname: </label>         
+<label> mahesh: </label>         
 <input type="text" name="mahesh" size="15"/> <br> <br>  
   
 <label>   
